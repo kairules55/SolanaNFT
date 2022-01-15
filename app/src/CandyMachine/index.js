@@ -314,10 +314,6 @@ const CandyMachine = ({ walletAddress }) => {
     return [];
   };
 
-  useEffect(() => {
-    getCandyMachineState();
-  }, []);
-
   const getProvider = () => {
     const rpcHost = process.env.REACT_APP_SOLANA_RPC_HOST;
     console.log(rpcHost);
@@ -333,6 +329,10 @@ const CandyMachine = ({ walletAddress }) => {
 
     return provider;
   };
+
+  useEffect(() => {
+    getCandyMachineState();
+  });
 
   const getCandyMachineState = async () => {
     const provider = getProvider();
