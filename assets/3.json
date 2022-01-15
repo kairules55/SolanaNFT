@@ -1,0 +1,31 @@
+{
+    "name": "Monkey D. Luffy",
+    "symbol": "OnePiece",
+    "description": "Straw Hat Luffy",
+    "seller_fee_basis_points": 500,
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Gomu Gomu no Mi",
+            "value": "100"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "One Piece",
+        "family": "Anime"
+    }
+}

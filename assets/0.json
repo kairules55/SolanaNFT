@@ -1,0 +1,31 @@
+{
+    "name": "Portgas D Ace",
+    "symbol": "OnePiece",
+    "description": "Fire Fist Ace",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Mera Mera no Mi",
+            "value": "100"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "One Piece",
+        "family": "Anime"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Roronoa Zoro",
+    "symbol": "One Piece",
+    "description": "Pirate Hunter Zoro",
+    "seller_fee_basis_points": 500,
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "Swordsman",
+            "value": "200"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "One Piece",
+        "family": "Anime"
+    }
+}

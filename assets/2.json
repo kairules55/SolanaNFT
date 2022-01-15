@@ -1,0 +1,31 @@
+{
+    "name": "Trafalgar D. Water Law",
+    "symbol": "OnePiece",
+    "description": "Surgeon of Death",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Ope Ope no Mi",
+            "value": "100"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "One Piece",
+        "family": "Anime"
+    }
+}

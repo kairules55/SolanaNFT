@@ -1,0 +1,31 @@
+{
+    "name": "Vinsmoke Sanji",
+    "symbol": "OnePiece",
+    "description": "Black Leg Sanji",
+    "seller_fee_basis_points": 500,
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "Kick",
+            "value": "200"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "One Piece",
+        "family": "Anime"
+    }
+}
